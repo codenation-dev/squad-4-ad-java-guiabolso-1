@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbb17494-3acf-4dc4-ab9d-ef4c92fceb42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/squad-4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/squad-4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/SpringBootErrorsCentralApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/SpringBootErrorsCentralApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/config/JwtAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/config/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/config/JwtRequestFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/config/JwtRequestFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/config/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/config/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/controller/JwtAuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/entity/JwtRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/entity/JwtRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/entity/JwtResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/entity/JwtResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/service/DecodeBase64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/serviceimpl/DecodeBase64Impl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/centralerrors/serviceimpl/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/errorscentral/serviceimpl/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/squad-4.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/SpringBootHelloWorldApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/config/JwtAuthenticationEntryPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/config/JwtRequestFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/config/JwtTokenUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/config/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/controllers/JwtAuthenticationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/entities/JwtRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/entities/JwtResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/entities/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/servicesimpl/DecodeBase64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/servicesimpl/DecodeBase64Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/centralerrors/servicesimpl/UserDetailsServiceImpl.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XWeUnjVBkHEFtlLldT4VHkN1hW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/errorscentral/config/SwaggerConfig.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.SpringBootErrorsCentralApplication">
+    <configuration name="SpringBootErrorsCentralApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.errorscentral.SpringBootErrorsCentralApplication" />
+      <module name="squad-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.errorscentral.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootHelloWorldApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.centralerrors.SpringBootHelloWorldApplication" />
+      <module name="squad-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.errorscentral.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootErrorsCentralApplication" />
+        <item itemvalue="Application.SpringBootHelloWorldApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbb17494-3acf-4dc4-ab9d-ef4c92fceb42" name="Default Changelist" comment="" />
+      <created>1580317459028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580317459028</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Configure_Path_Variables" timestamp="1582540048760">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Configure_Path_Variables/67.27.1299.741@67.27.1299.741" timestamp="1582540048760" />
+    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1582379815600">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1582379815600" />
+    <state x="220" y="27" width="972" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581856220787">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="220" y="27" width="972" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741@67.27.1299.741" timestamp="1581856220787" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582373672907">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1582373672907" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582550387129">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582550387129" />
+    <state width="1253" height="64" key="GridCell.Tab.0.bottom" timestamp="1582635099825">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="64" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582635099825" />
+    <state width="1253" height="64" key="GridCell.Tab.0.center" timestamp="1582635099823">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="64" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582635099823" />
+    <state width="1253" height="64" key="GridCell.Tab.0.left" timestamp="1582635099822">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="64" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582635099822" />
+    <state width="1253" height="64" key="GridCell.Tab.0.right" timestamp="1582635099824">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="64" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582635099824" />
+    <state width="1253" height="286" key="GridCell.Tab.1.bottom" timestamp="1582374331987">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="286" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582374331987" />
+    <state width="1253" height="286" key="GridCell.Tab.1.center" timestamp="1582374331986">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="286" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1582374331986" />
+    <state width="1253" height="286" key="GridCell.Tab.1.left" timestamp="1582374331986">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="286" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1582374331986" />
+    <state width="1253" height="286" key="GridCell.Tab.1.right" timestamp="1582374331986">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="286" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1582374331986" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1582381436706">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582381436706" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582554079272">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582554079272" />
+    <state x="468" y="71" width="487" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582378691154">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="468" y="71" width="487" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1299.741@67.27.1299.741" timestamp="1582378691154" />
+    <state x="67" y="27" width="710" height="741" key="find.popup" timestamp="1582462692071">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="710" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1582462692071" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1581792209057">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1581792209057" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1581254122500">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1581254122500" />
+    <state x="441" y="310" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581161164739">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="441" y="310" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1299.741@67.27.1299.741" timestamp="1581161164739" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_jwt$SpringBootErrorsCentralApplication.ic" NAME="SpringBootErrorsCentralApplication Coverage Results" MODIFIED="1582374350828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.centralerrors.*</FILTER>
+    </SUITE>
+  </component>
+</project>
