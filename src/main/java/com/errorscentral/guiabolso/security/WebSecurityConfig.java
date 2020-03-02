@@ -1,7 +1,5 @@
-package com.errorscentral.guiabolso.config;
+package com.errorscentral.guiabolso.security;
 
-import com.errorscentral.guiabolso.component.JwtAuthenticationEntryPoint;
-import com.errorscentral.guiabolso.component.JwtRequestFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

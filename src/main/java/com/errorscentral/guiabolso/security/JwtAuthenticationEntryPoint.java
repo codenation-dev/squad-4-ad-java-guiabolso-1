@@ -1,4 +1,4 @@
-package com.errorscentral.guiabolso.component;
+package com.errorscentral.guiabolso.security;
 
 import java.io.IOException;
 import java.io.Serializable;

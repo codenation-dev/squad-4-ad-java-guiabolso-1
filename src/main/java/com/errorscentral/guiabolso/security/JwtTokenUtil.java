@@ -1,4 +1,4 @@
-package com.errorscentral.guiabolso.component;
+package com.errorscentral.guiabolso.security;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -20,9 +20,6 @@ public class JwtTokenUtil implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	public static final long JWT_TOKEN_VALIDITY = 5 * 60 * 60;
-
-	public static final String JWT_TOKEN_PREFIX = "Bearer ";
-
 
 	@Autowired
 	private UserService userService;
@@ -52,8 +49,7 @@ public class JwtTokenUtil implements Serializable {
 	public String generateToken(String email) {
 		Map<String, Object> claims = new HashMap<>();
 		UserDetails userDetails = userService.loadUserByUsername(email);
-		String token =  doGenerateToken(claims,  userDetails.getUsername());
-		return JWT_TOKEN_PREFIX + token;
+		return doGenerateToken(claims, "Bearer " + userDetails.getUsername());
 	}
 
 	private String doGenerateToken(Map<String, Object> claims, String subject) {
