@@ -8,7 +8,7 @@ Desta forma, é muito importante que os desenvolvedores possam centralizar todos
 de onde podem monitorar e tomar decisões mais acertadas. <br/>
 Neste projeto vamos implementar um sistema para centralizar registros de erros de aplicações.
 
-Back-end : desenvolvimento da API
-Linguagem : JAVA
-Framework: SpringBoot
-Banco de dados: Postgres
+<strong>Back-end :</strong> desenvolvimento da API<br/>
+<strong>Linguagem :</strong> JAVA<br/>
+<strong>Framework:</strong> SpringBoot<br/>
+<strong>Banco de dados:</strong> Postgres
